@@ -1,3 +1,12 @@
+# About
+
+API to save Terminal(?) Command Line, API build using .NET 3.1
+
+# plan
+
+- Try Using Graphql
+- Add Front End (React?)
+
 # What will it cover
 
 ## Introduction
